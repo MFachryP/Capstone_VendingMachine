@@ -7,19 +7,19 @@ Aplikasi ini adalah simulasi mesin penjual otomatis (vending machine) berbasis P
 Berikut adalah flowchart yang menggambarkan alur program:
 
 ### Login
-![Flowchart](flowchart/Login.drawio.png)
+![Flowchart](Login.drawio.png)
 
 ### User Menu
-![Flowchart](flowchart/User_Menu.png)
+![Flowchart](User_Menu.png)
 
 ### Admin Menu
-![Flowchart](flowchart/Admin_menu.png)
+![Flowchart](Admin_menu.png)
 
 ### Create Menu
-![Flowchart](flowchart/Create_menu.png)
+![Flowchart](Create_menu.png)
 
 ### Update Menu
-![Flowchart](flowchart/Update_menu.png)
+![Flowchart](Update_menu.png)
 
 ### Delete Menu
-![Flowchart](flowchart/Delete_menu.png)
+![Flowchart](Delete_menu.png)
